@@ -1,5 +1,3 @@
-Establishing Database Connection:
-
 The code begins by defining a connectionString variable that holds the necessary connection information (server, port, database name, username, and password) for connecting to a MySQL database.
 Main Function:
 
